@@ -12,6 +12,13 @@
 
 body {
   font-family: Inter;
+  overflow-x: scroll;
+  scrollbar-width: none;
+}
+
+.content {
+  overflow-x: scroll;
+  scrollbar-width: none;
 }
 
 .flexCenter {
